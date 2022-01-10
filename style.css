@@ -157,7 +157,7 @@
   .flex-item {
     border: 5px solid var(--second);
     background-color: var(--first);
-    color: var(--tertiary);
+    color: var(--third);
     min-height: 150px;
     max-height: 150px;
     flex-basis: calc(50% - 1em);
